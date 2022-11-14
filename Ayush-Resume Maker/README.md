@@ -8,5 +8,4 @@ Create beautiful resumes in minutes. Just fill a form, select from various theme
 
 - Not liability resulting from the use of this website will be considered by the author and users may use it at their own discretion.
 
-## Screenshots
 
